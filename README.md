@@ -1,5 +1,4 @@
 # Transportation-Optimization-Models
-# README
 
 This repository contains Python scripts implementing various models for solving transportation problems for the review that we conducted on [Analyzing multimodal transportation problem and its application to artificial intelligence](https://link.springer.com/article/10.1007/s00521-019-04393-5), which includes linear programming and neural network approaches. These models are designed for solving transportation problems with different constraints and objectives.
 
