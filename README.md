@@ -27,8 +27,6 @@ This repository contains Python scripts implementing various models for solving 
 - Ensure that required dependencies such as NumPy, SciPy, PyTorch, and TensorFlow are installed.
 - Modify input data and parameters as needed for your specific transportation problem.
 
-Thank you for providing the citation. Here's how you can incorporate it into the README:
-
 ## Citation
 If you use any of these models in your research work, please cite the original research paper:
 
